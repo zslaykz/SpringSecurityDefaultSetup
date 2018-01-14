@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e5fd6a10-dc44-4921-a148-e4eace8a80ef" name="Default" comment="" />
+    <list default="true" id="e5fd6a10-dc44-4921-a148-e4eace8a80ef" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/ua/com/owu/config/SecurityInit.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/admin.jsp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/index.jsp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/login.jsp" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/SecurityWebLoginPage.iml" afterPath="$PROJECT_DIR$/SecurityWebLoginPage.iml" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ua/com/owu/config/SecurityConfig.java" afterPath="$PROJECT_DIR$/src/main/java/ua/com/owu/config/SecurityConfig.java" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,7 +25,7 @@
       <file leaf-file-name="DataConfig.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/ua/com/owu/config/DataConfig.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="21">
+            <state relative-caret-position="483">
               <caret line="29" column="19" lean-forward="false" selection-start-line="29" selection-start-column="19" selection-end-line="29" selection-end-column="19" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -25,143 +34,41 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SecurityConfig.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.jsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/index.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="10" column="16" lean-forward="false" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="admin.jsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/admin.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="189">
+              <caret line="9" column="4" lean-forward="true" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="login.jsp" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/login.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="10" column="16" lean-forward="false" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SecurityConfig.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/ua/com/owu/config/SecurityConfig.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="504">
-              <caret line="24" column="24" lean-forward="false" selection-start-line="24" selection-start-column="24" selection-end-line="24" selection-end-column="24" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="UserServicesImpl.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/ua/com/owu/service/Impl/UserServicesImpl.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="504">
-              <caret line="24" column="43" lean-forward="false" selection-start-line="24" selection-start-column="43" selection-end-line="24" selection-end-column="43" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#1088#1089#0" expanded="true" />
-                <element signature="e#1124#1125#0" expanded="true" />
-                <element signature="e#1185#1186#0" expanded="true" />
-                <element signature="e#1232#1233#0" expanded="true" />
-                <element signature="e#1279#1280#0" expanded="true" />
-                <element signature="e#1317#1318#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="UserService.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/ua/com/owu/service/UserService.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="12" column="24" lean-forward="false" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="User.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/ua/com/owu/entity/User.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="518">
-              <caret line="118" column="18" lean-forward="false" selection-start-line="118" selection-start-column="18" selection-end-line="118" selection-end-column="18" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#823#824#0" expanded="true" />
-                <element signature="e#848#849#0" expanded="true" />
-                <element signature="e#881#882#0" expanded="true" />
-                <element signature="e#909#910#0" expanded="true" />
-                <element signature="e#957#958#0" expanded="true" />
-                <element signature="e#997#998#0" expanded="true" />
-                <element signature="e#1045#1046#0" expanded="true" />
-                <element signature="e#1085#1086#0" expanded="true" />
-                <element signature="e#1117#1118#0" expanded="true" />
-                <element signature="e#1145#1146#0" expanded="true" />
-                <element signature="e#1187#1188#0" expanded="true" />
-                <element signature="e#1221#1222#0" expanded="true" />
-                <element signature="e#1260#1261#0" expanded="true" />
-                <element signature="e#1292#1293#0" expanded="true" />
-                <element signature="e#1345#1346#0" expanded="true" />
-                <element signature="e#1387#1388#0" expanded="true" />
-                <element signature="e#1452#1453#0" expanded="true" />
-                <element signature="e#1508#1509#0" expanded="true" />
-                <element signature="e#1696#1697#0" expanded="true" />
-                <element signature="e#1734#1735#0" expanded="true" />
-                <element signature="e#1801#1802#0" expanded="true" />
-                <element signature="e#1859#1860#0" expanded="true" />
-                <element signature="e#2172#2173#0" expanded="true" />
-                <element signature="e#2199#2200#0" expanded="true" />
-                <element signature="e#2248#2249#0" expanded="true" />
-                <element signature="e#2275#2276#0" expanded="true" />
-                <element signature="e#2333#2334#0" expanded="true" />
-                <element signature="e#2373#2374#0" expanded="true" />
-                <element signature="e#2430#2431#0" expanded="true" />
-                <element signature="e#2469#2470#0" expanded="true" />
-                <element signature="e#2531#2532#0" expanded="true" />
-                <element signature="e#2575#2576#0" expanded="true" />
-                <element signature="e#2623#2624#0" expanded="true" />
-                <element signature="e#2653#2654#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MainController.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/ua/com/owu/controller/MainController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="42">
-              <caret line="2" column="27" lean-forward="false" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Authority.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/ua/com/owu/entity/Authority.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="63">
-              <caret line="3" column="24" lean-forward="false" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="UserDao.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/ua/com/owu/dao/UserDao.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="231">
-              <caret line="11" column="4" lean-forward="false" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="52" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="WebInit.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/ua/com/owu/config/WebInit.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="18" column="17" lean-forward="false" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="WebConfig.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/ua/com/owu/config/WebConfig.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="26" column="41" lean-forward="false" selection-start-line="26" selection-start-column="41" selection-end-line="26" selection-end-column="41" />
+            <state relative-caret-position="633">
+              <caret line="39" column="85" lean-forward="false" selection-start-line="39" selection-start-column="85" selection-end-line="39" selection-end-column="85" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -175,8 +82,12 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Jsp File" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
@@ -192,7 +103,6 @@
         <option value="$PROJECT_DIR$/src/main/java/ua/com/owu/Impl/UserServices.java" />
         <option value="$PROJECT_DIR$/src/main/java/ua/com/service/Impl/UserServicesImpl.java" />
         <option value="$PROJECT_DIR$/src/main/java/ua/com/owu/entity.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ua/com/owu/config/DataConfig.java" />
         <option value="$PROJECT_DIR$/src/main/java/ua/com/owu/config/Enviroment.java" />
         <option value="$PROJECT_DIR$/src/main/java/ua/com/service/UserService.java" />
         <option value="$PROJECT_DIR$/src/main/java/ua/com/owu/controller/MainController.java" />
@@ -202,6 +112,11 @@
         <option value="$PROJECT_DIR$/src/main/java/ua/com/owu/service/UserService.java" />
         <option value="$PROJECT_DIR$/src/main/java/ua/com/owu/service/Impl/UserServicesImpl.java" />
         <option value="$PROJECT_DIR$/src/main/java/ua/com/owu/config/SecurityConfig.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ua/com/owu/config/SecurityInit.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ua/com/owu/config/DataConfig.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/index.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/admin.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/login.jsp" />
       </list>
     </option>
   </component>
@@ -219,8 +134,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="946" />
-    <option name="width" value="982" />
+    <option name="x" value="985" />
+    <option name="width" value="943" />
     <option name="height" value="1038" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
@@ -266,6 +181,7 @@
       </profile-state>
     </entry>
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -304,101 +220,24 @@
               <item name="SecurityWebLoginPage" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="security" type="b2602c69:ProjectViewProjectNode" />
               <item name="SecurityWebLoginPage" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="ua" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="security" type="b2602c69:ProjectViewProjectNode" />
               <item name="SecurityWebLoginPage" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="ua" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="security" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SecurityWebLoginPage" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="ua" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="owu" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="security" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SecurityWebLoginPage" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="ua" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="owu" type="462c0819:PsiDirectoryNode" />
-              <item name="config" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="security" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SecurityWebLoginPage" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="ua" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="owu" type="462c0819:PsiDirectoryNode" />
-              <item name="controller" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="security" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SecurityWebLoginPage" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="ua" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="owu" type="462c0819:PsiDirectoryNode" />
-              <item name="dao" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="security" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SecurityWebLoginPage" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="ua" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="owu" type="462c0819:PsiDirectoryNode" />
-              <item name="entity" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="security" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SecurityWebLoginPage" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="ua" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="owu" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="security" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SecurityWebLoginPage" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="ua" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="owu" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-              <item name="Impl" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -416,8 +255,8 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
@@ -533,16 +372,15 @@
       <option name="presentableId" value="Default" />
       <updated>1515863411137</updated>
       <workItem from="1515863416090" duration="2173000" />
-      <workItem from="1515925787916" duration="2514000" />
+      <workItem from="1515925787916" duration="4509000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4687000" />
+    <option name="totallyTimeSpent" value="6682000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="946" y="0" width="982" height="1038" extended-state="0" />
-    <editor active="true" />
+    <frame x="985" y="0" width="943" height="1038" extended-state="0" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -561,11 +399,12 @@
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4646799" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Persistence" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4636678" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295583" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -612,13 +451,13 @@
         <state relative-caret-position="42">
           <caret line="2" column="29" lean-forward="false" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1088#1089#0" expanded="true" />
-            <element signature="e#1124#1125#0" expanded="true" />
-            <element signature="e#1185#1186#0" expanded="true" />
-            <element signature="e#1232#1233#0" expanded="true" />
-            <element signature="e#1279#1280#0" expanded="true" />
-            <element signature="e#1317#1318#0" expanded="true" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#1088#1089#0" expanded="false" />
+            <element signature="e#1124#1125#0" expanded="false" />
+            <element signature="e#1185#1186#0" expanded="false" />
+            <element signature="e#1232#1233#0" expanded="false" />
+            <element signature="e#1279#1280#0" expanded="false" />
+            <element signature="e#1317#1318#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -628,7 +467,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="27" lean-forward="false" selection-start-line="0" selection-start-column="27" selection-end-line="0" selection-end-column="27" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -638,41 +477,41 @@
         <state relative-caret-position="42">
           <caret line="2" column="17" lean-forward="false" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#823#824#0" expanded="true" />
-            <element signature="e#848#849#0" expanded="true" />
-            <element signature="e#881#882#0" expanded="true" />
-            <element signature="e#909#910#0" expanded="true" />
-            <element signature="e#957#958#0" expanded="true" />
-            <element signature="e#997#998#0" expanded="true" />
-            <element signature="e#1045#1046#0" expanded="true" />
-            <element signature="e#1085#1086#0" expanded="true" />
-            <element signature="e#1117#1118#0" expanded="true" />
-            <element signature="e#1145#1146#0" expanded="true" />
-            <element signature="e#1187#1188#0" expanded="true" />
-            <element signature="e#1221#1222#0" expanded="true" />
-            <element signature="e#1260#1261#0" expanded="true" />
-            <element signature="e#1292#1293#0" expanded="true" />
-            <element signature="e#1345#1346#0" expanded="true" />
-            <element signature="e#1387#1388#0" expanded="true" />
-            <element signature="e#1452#1453#0" expanded="true" />
-            <element signature="e#1508#1509#0" expanded="true" />
-            <element signature="e#1696#1697#0" expanded="true" />
-            <element signature="e#1734#1735#0" expanded="true" />
-            <element signature="e#1801#1802#0" expanded="true" />
-            <element signature="e#1859#1860#0" expanded="true" />
-            <element signature="e#2172#2173#0" expanded="true" />
-            <element signature="e#2199#2200#0" expanded="true" />
-            <element signature="e#2248#2249#0" expanded="true" />
-            <element signature="e#2275#2276#0" expanded="true" />
-            <element signature="e#2333#2334#0" expanded="true" />
-            <element signature="e#2373#2374#0" expanded="true" />
-            <element signature="e#2430#2431#0" expanded="true" />
-            <element signature="e#2469#2470#0" expanded="true" />
-            <element signature="e#2531#2532#0" expanded="true" />
-            <element signature="e#2575#2576#0" expanded="true" />
-            <element signature="e#2623#2624#0" expanded="true" />
-            <element signature="e#2653#2654#0" expanded="true" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#823#824#0" expanded="false" />
+            <element signature="e#848#849#0" expanded="false" />
+            <element signature="e#881#882#0" expanded="false" />
+            <element signature="e#909#910#0" expanded="false" />
+            <element signature="e#957#958#0" expanded="false" />
+            <element signature="e#997#998#0" expanded="false" />
+            <element signature="e#1045#1046#0" expanded="false" />
+            <element signature="e#1085#1086#0" expanded="false" />
+            <element signature="e#1117#1118#0" expanded="false" />
+            <element signature="e#1145#1146#0" expanded="false" />
+            <element signature="e#1187#1188#0" expanded="false" />
+            <element signature="e#1221#1222#0" expanded="false" />
+            <element signature="e#1260#1261#0" expanded="false" />
+            <element signature="e#1292#1293#0" expanded="false" />
+            <element signature="e#1345#1346#0" expanded="false" />
+            <element signature="e#1387#1388#0" expanded="false" />
+            <element signature="e#1452#1453#0" expanded="false" />
+            <element signature="e#1508#1509#0" expanded="false" />
+            <element signature="e#1696#1697#0" expanded="false" />
+            <element signature="e#1734#1735#0" expanded="false" />
+            <element signature="e#1801#1802#0" expanded="false" />
+            <element signature="e#1859#1860#0" expanded="false" />
+            <element signature="e#2172#2173#0" expanded="false" />
+            <element signature="e#2199#2200#0" expanded="false" />
+            <element signature="e#2248#2249#0" expanded="false" />
+            <element signature="e#2275#2276#0" expanded="false" />
+            <element signature="e#2333#2334#0" expanded="false" />
+            <element signature="e#2373#2374#0" expanded="false" />
+            <element signature="e#2430#2431#0" expanded="false" />
+            <element signature="e#2469#2470#0" expanded="false" />
+            <element signature="e#2531#2532#0" expanded="false" />
+            <element signature="e#2575#2576#0" expanded="false" />
+            <element signature="e#2623#2624#0" expanded="false" />
+            <element signature="e#2653#2654#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -682,7 +521,7 @@
         <state relative-caret-position="84">
           <caret line="4" column="56" lean-forward="false" selection-start-line="4" selection-start-column="56" selection-end-line="4" selection-end-column="56" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -692,7 +531,7 @@
         <state relative-caret-position="252">
           <caret line="18" column="17" lean-forward="false" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -702,7 +541,7 @@
         <state relative-caret-position="420">
           <caret line="26" column="41" lean-forward="false" selection-start-line="26" selection-start-column="41" selection-end-line="26" selection-end-column="41" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -723,33 +562,35 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ua/com/owu/entity.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/ua/com/owu/config/Enviroment.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/ua/com/owu/config/WebConfig.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="26" column="41" lean-forward="false" selection-start-line="26" selection-start-column="41" selection-end-line="26" selection-end-column="41" />
+        <state relative-caret-position="630">
+          <caret line="30" column="0" lean-forward="true" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ua/com/owu/config/WebInit.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
+        <state relative-caret-position="378">
           <caret line="18" column="17" lean-forward="false" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ua/com/owu/entity.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/ua/com/owu/config/Enviroment.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/ua/com/owu/controller/MainController.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/ua/com/owu/dao/UserDao.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="2" column="27" lean-forward="false" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
-          <folding />
+        <state relative-caret-position="231">
+          <caret line="11" column="4" lean-forward="false" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="52" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -761,46 +602,54 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ua/com/owu/controller/MainController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="27" lean-forward="false" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ua/com/owu/entity/User.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="518">
           <caret line="118" column="18" lean-forward="false" selection-start-line="118" selection-start-column="18" selection-end-line="118" selection-end-column="18" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#823#824#0" expanded="true" />
-            <element signature="e#848#849#0" expanded="true" />
-            <element signature="e#881#882#0" expanded="true" />
-            <element signature="e#909#910#0" expanded="true" />
-            <element signature="e#957#958#0" expanded="true" />
-            <element signature="e#997#998#0" expanded="true" />
-            <element signature="e#1045#1046#0" expanded="true" />
-            <element signature="e#1085#1086#0" expanded="true" />
-            <element signature="e#1117#1118#0" expanded="true" />
-            <element signature="e#1145#1146#0" expanded="true" />
-            <element signature="e#1187#1188#0" expanded="true" />
-            <element signature="e#1221#1222#0" expanded="true" />
-            <element signature="e#1260#1261#0" expanded="true" />
-            <element signature="e#1292#1293#0" expanded="true" />
-            <element signature="e#1345#1346#0" expanded="true" />
-            <element signature="e#1387#1388#0" expanded="true" />
-            <element signature="e#1452#1453#0" expanded="true" />
-            <element signature="e#1508#1509#0" expanded="true" />
-            <element signature="e#1696#1697#0" expanded="true" />
-            <element signature="e#1734#1735#0" expanded="true" />
-            <element signature="e#1801#1802#0" expanded="true" />
-            <element signature="e#1859#1860#0" expanded="true" />
-            <element signature="e#2172#2173#0" expanded="true" />
-            <element signature="e#2199#2200#0" expanded="true" />
-            <element signature="e#2248#2249#0" expanded="true" />
-            <element signature="e#2275#2276#0" expanded="true" />
-            <element signature="e#2333#2334#0" expanded="true" />
-            <element signature="e#2373#2374#0" expanded="true" />
-            <element signature="e#2430#2431#0" expanded="true" />
-            <element signature="e#2469#2470#0" expanded="true" />
-            <element signature="e#2531#2532#0" expanded="true" />
-            <element signature="e#2575#2576#0" expanded="true" />
-            <element signature="e#2623#2624#0" expanded="true" />
-            <element signature="e#2653#2654#0" expanded="true" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#823#824#0" expanded="false" />
+            <element signature="e#848#849#0" expanded="false" />
+            <element signature="e#881#882#0" expanded="false" />
+            <element signature="e#909#910#0" expanded="false" />
+            <element signature="e#957#958#0" expanded="false" />
+            <element signature="e#997#998#0" expanded="false" />
+            <element signature="e#1045#1046#0" expanded="false" />
+            <element signature="e#1085#1086#0" expanded="false" />
+            <element signature="e#1117#1118#0" expanded="false" />
+            <element signature="e#1145#1146#0" expanded="false" />
+            <element signature="e#1187#1188#0" expanded="false" />
+            <element signature="e#1221#1222#0" expanded="false" />
+            <element signature="e#1260#1261#0" expanded="false" />
+            <element signature="e#1292#1293#0" expanded="false" />
+            <element signature="e#1345#1346#0" expanded="false" />
+            <element signature="e#1387#1388#0" expanded="false" />
+            <element signature="e#1452#1453#0" expanded="false" />
+            <element signature="e#1508#1509#0" expanded="false" />
+            <element signature="e#1696#1697#0" expanded="false" />
+            <element signature="e#1734#1735#0" expanded="false" />
+            <element signature="e#1801#1802#0" expanded="false" />
+            <element signature="e#1859#1860#0" expanded="false" />
+            <element signature="e#2172#2173#0" expanded="false" />
+            <element signature="e#2199#2200#0" expanded="false" />
+            <element signature="e#2248#2249#0" expanded="false" />
+            <element signature="e#2275#2276#0" expanded="false" />
+            <element signature="e#2333#2334#0" expanded="false" />
+            <element signature="e#2373#2374#0" expanded="false" />
+            <element signature="e#2430#2431#0" expanded="false" />
+            <element signature="e#2469#2470#0" expanded="false" />
+            <element signature="e#2531#2532#0" expanded="false" />
+            <element signature="e#2575#2576#0" expanded="false" />
+            <element signature="e#2623#2624#0" expanded="false" />
+            <element signature="e#2653#2654#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -810,17 +659,7 @@
         <state relative-caret-position="252">
           <caret line="12" column="24" lean-forward="false" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
           <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ua/com/owu/dao/UserDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="11" column="4" lean-forward="false" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="52" />
-          <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -830,20 +669,38 @@
         <state relative-caret-position="504">
           <caret line="24" column="43" lean-forward="false" selection-start-line="24" selection-start-column="43" selection-end-line="24" selection-end-column="43" />
           <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#1088#1089#0" expanded="false" />
+            <element signature="e#1124#1125#0" expanded="false" />
+            <element signature="e#1185#1186#0" expanded="false" />
+            <element signature="e#1232#1233#0" expanded="false" />
+            <element signature="e#1279#1280#0" expanded="false" />
+            <element signature="e#1317#1318#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ua/com/owu/config/SecurityInit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" column="4" lean-forward="false" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ua/com/owu/config/SecurityConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="633">
+          <caret line="39" column="85" lean-forward="false" selection-start-line="39" selection-start-column="85" selection-end-line="39" selection-end-column="85" />
+          <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1088#1089#0" expanded="true" />
-            <element signature="e#1124#1125#0" expanded="true" />
-            <element signature="e#1185#1186#0" expanded="true" />
-            <element signature="e#1232#1233#0" expanded="true" />
-            <element signature="e#1279#1280#0" expanded="true" />
-            <element signature="e#1317#1318#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ua/com/owu/config/DataConfig.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="21">
+        <state relative-caret-position="483">
           <caret line="29" column="19" lean-forward="false" selection-start-line="29" selection-start-column="19" selection-end-line="29" selection-end-column="19" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -851,13 +708,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ua/com/owu/config/SecurityConfig.java">
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/index.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="24" column="24" lean-forward="false" selection-start-line="24" selection-start-column="24" selection-end-line="24" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="210">
+          <caret line="10" column="16" lean-forward="false" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/admin.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="9" column="4" lean-forward="true" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/login.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="10" column="16" lean-forward="false" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="16" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -915,7 +786,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>Spring|SecurityWebLoginPage</last-edited>
+          <last-edited>JPA|SecurityWebLoginPage</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
